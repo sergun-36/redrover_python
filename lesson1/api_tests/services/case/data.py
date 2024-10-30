@@ -40,6 +40,5 @@ positive_create_case = [
     "priority": "высокий",
     "steps": [],
     "expected_result": "Задание выполнено",
-}
+}]
 
-]
